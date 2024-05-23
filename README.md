@@ -2,8 +2,7 @@
 
 - red
 - green
-- purple
-- purple (boring, copycat)
+- **purple**
 - black
 - orange
 - blue
